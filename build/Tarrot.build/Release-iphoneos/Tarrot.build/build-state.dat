@@ -1,0 +1,483 @@
+TTarrot
+v7
+r1
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk
+c000000004D7401890000000000000110
+t1299448201
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+c000000004D4F6A4700000000000001E5
+t1297050183
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54D18C00000000003532A0
+t1297404300
+s3486368
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54D1F500000000003E22F0
+t1297404405
+s4072176
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54D1DD0000000000001466
+t1297404381
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004D54D49500000000000000C4
+t1297405077
+s196
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004D54D608000000000026CB10
+t1297405448
+s2542352
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5A28AB0000000000000AA1
+t1297754283
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5A292A0000000000CA2AE0
+t1297754410
+s13249248
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/ChooseViewDaily.h
+c000000004E09DF4D00000000000001DF
+t1309269837
+s479
+i<UIKit/UIKit.h>
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/ChooseViewDaily.m
+c000000004E0AA79800000000000018D4
+t1309321112
+s6356
+i"ChooseViewDaily.h"
+i"MainView.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/MainView.h
+c000000004E098FCB0000000000000238
+t1309249483
+s568
+i<UIKit/UIKit.h>
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/MainView.m
+c000000004E0990090000000000000B36
+t1309249545
+s2870
+i"MainView.h"
+i"ChooseViewDaily.h"
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/TarrotAppDelegate.h
+c000000004E097C4F00000000000001D8
+t1309244495
+s472
+i<UIKit/UIKit.h>
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/TarrotAppDelegate.m
+c000000004E097D350000000000000AED
+t1309244725
+s2797
+i"TarrotAppDelegate.h"
+i"TarrotViewController.h"
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/TarrotViewController.h
+c000000004E098F2800000000000000E8
+t1309249320
+s232
+i<UIKit/UIKit.h>
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/TarrotViewController.m
+c000000004E098F490000000000000657
+t1309249353
+s1623
+i"TarrotViewController.h"
+i"MainView.h"
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/MainWindow.xib
+c000000004E097C4F0000000000004E1D
+t1309244495
+s19997
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/TarrotViewController.xib
+c000000004E0989140000000000003B3A
+t1309247764
+s15162
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Tarrot_Prefix.pch
+c000000004E097C4F00000000000000B5
+t1309244495
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphoneos/Tarrot.app
+t2
+s0
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphoneos/Tarrot.app.dSYM
+t2
+s0
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphoneos/Tarrot.app/Info.plist
+t2
+s0
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphoneos/Tarrot.app/MainWindow.nib
+t2
+s0
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphoneos/Tarrot.app/PkgInfo
+t2
+s0
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphoneos/Tarrot.app/ResourceRules.plist
+t2
+s0
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphoneos/Tarrot.app/Tarrot
+t2
+s0
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphoneos/Tarrot.app/TarrotViewController.nib
+t2
+s0
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphoneos/Tarrot.app/backButton.png
+t2
+s0
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphoneos/Tarrot.app/backButtonPressed.png
+t2
+s0
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphoneos/Tarrot.app/background.png
+t2
+s0
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphoneos/Tarrot.app/cardBack.png
+t2
+s0
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphoneos/Tarrot.app/dailyButton.png
+t2
+s0
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphoneos/Tarrot.app/dailyButtonPressed.png
+t2
+s0
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphoneos/Tarrot.app/icon.png
+t2
+s0
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphoneos/Tarrot.app/mainBackground.png
+t2
+s0
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphoneos/Tarrot.app/selfButton.png
+t2
+s0
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphoneos/Tarrot.app/selfButtonPressed.png
+t2
+s0
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphoneos/Tarrot.app/triangleButton.png
+t2
+s0
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphoneos/Tarrot.app/triangleButtonPressed.png
+t2
+s0
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphoneos/Tarrot.app/tubiao5.png
+t2
+s0
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphoneos/Tarrot.app/tubiao6.png
+t2
+s0
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphoneos/Tarrot.app/图标1.png
+t2
+s0
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphoneos/Tarrot.build/Objects-normal/armv6/ChooseViewDaily.o
+t2
+s0
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphoneos/Tarrot.build/Objects-normal/armv6/MainView.o
+t2
+s0
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphoneos/Tarrot.build/Objects-normal/armv6/Tarrot
+t2
+s0
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphoneos/Tarrot.build/Objects-normal/armv6/Tarrot.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphoneos/Tarrot.build/Objects-normal/armv6/TarrotAppDelegate.o
+t2
+s0
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphoneos/Tarrot.build/Objects-normal/armv6/TarrotViewController.o
+t2
+s0
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphoneos/Tarrot.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphoneos/Tarrot.build/Objects-normal/armv7/ChooseViewDaily.o
+t2
+s0
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphoneos/Tarrot.build/Objects-normal/armv7/MainView.o
+t2
+s0
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphoneos/Tarrot.build/Objects-normal/armv7/Tarrot
+t2
+s0
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphoneos/Tarrot.build/Objects-normal/armv7/Tarrot.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphoneos/Tarrot.build/Objects-normal/armv7/TarrotAppDelegate.o
+t2
+s0
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphoneos/Tarrot.build/Objects-normal/armv7/TarrotViewController.o
+t2
+s0
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphoneos/Tarrot.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphoneos/Tarrot.build/com.apple.build-tools.platform.validate
+t2
+s0
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/backButton.png
+c000000004E0790CB00000000000015CA
+t1309118667
+s5578
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/backButtonPressed.png
+c000000004E0790590000000000001646
+t1309118553
+s5702
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/background.png
+c000000004E079079000000000002E47A
+t1309118585
+s189562
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/cardBack.png
+c000000004E09668900000000000029E8
+t1309238921
+s10728
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/dailyButton.png
+c000000004E08E35300000000000029AB
+t1309205331
+s10667
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/dailyButtonPressed.png
+c000000004E08E3520000000000002C5A
+t1309205330
+s11354
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/icon.png
+c000000004E0AADE900000000000020B2
+t1309322729
+s8370
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/mainBackground.png
+c000000004E079087000000000003834A
+t1309118599
+s230218
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/selfButton.png
+c000000004E08E3520000000000002B32
+t1309205330
+s11058
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/selfButtonPressed.png
+c000000004E08E3530000000000002ED4
+t1309205331
+s11988
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/triangleButton.png
+c000000004E08E35200000000000028BE
+t1309205330
+s10430
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/triangleButtonPressed.png
+c000000004E08E3520000000000002CD4
+t1309205330
+s11476
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/tubiao5.png
+c000000004E0AADEC00000000000021D3
+t1309322732
+s8659
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/tubiao6.png
+c000000004E0AADE900000000000021CA
+t1309322729
+s8650
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/图标1.png
+c000000004E0AADE300000000000020E9
+t1309322723
+s8425
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/main.m
+c000000004E097C4F0000000000000167
+t1309244495
+s359
+i<UIKit/UIKit.h>
+
+N/var/folders/fV/fV8ZJGmEHvS2k0A67Nvn+U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tarrot_Prefix-bxwibmsrxqbzzecziteaabaridzc/Tarrot_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/fV/fV8ZJGmEHvS2k0A67Nvn+U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tarrot_Prefix-gxbgbyfhzhrorabyypvjdpxgwfiy/Tarrot_Prefix.pch.gch
+t2
+s0
+
+NTarrot-Info.plist
+c000000004E0AAA550000000000000396
+t1309321813
+s918
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies331015815#331015815#0(133"[BEROR]Code Sign error: The identity 'iPhone Developer' doesn't match any valid certificate/private key pair in the default keychain1(4@125"Code Sign error: The identity 'iPhone Developer' doesn't match any valid certificate/private key pair in the default keychain331015815#18446744073709551615#0#0(1@0"0(0#1#0"8667807296#0"0#
+
+CCompileC build/Tarrot.build/Release-iphoneos/Tarrot.build/Objects-normal/armv6/ChooseViewDaily.o "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/ChooseViewDaily.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Tarrot.build/Release-iphoneos/Tarrot.build/Objects-normal/armv6/MainView.o "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/MainView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Tarrot.build/Release-iphoneos/Tarrot.build/Objects-normal/armv6/TarrotAppDelegate.o "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/TarrotAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Tarrot.build/Release-iphoneos/Tarrot.build/Objects-normal/armv6/TarrotViewController.o "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/TarrotViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Tarrot.build/Release-iphoneos/Tarrot.build/Objects-normal/armv6/main.o "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Tarrot.build/Release-iphoneos/Tarrot.build/Objects-normal/armv7/ChooseViewDaily.o "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/ChooseViewDaily.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Tarrot.build/Release-iphoneos/Tarrot.build/Objects-normal/armv7/MainView.o "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/MainView.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Tarrot.build/Release-iphoneos/Tarrot.build/Objects-normal/armv7/TarrotAppDelegate.o "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/TarrotAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Tarrot.build/Release-iphoneos/Tarrot.build/Objects-normal/armv7/TarrotViewController.o "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/TarrotViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Tarrot.build/Release-iphoneos/Tarrot.build/Objects-normal/armv7/main.o "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/TarrotViewController.xib"
+r0
+
+CCopyPNGFile "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphoneos/Tarrot.app/backButton.png" img/backButton.png
+r0
+
+CCopyPNGFile "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphoneos/Tarrot.app/backButtonPressed.png" img/backButtonPressed.png
+r0
+
+CCopyPNGFile "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphoneos/Tarrot.app/background.png" img/background.png
+r0
+
+CCopyPNGFile "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphoneos/Tarrot.app/cardBack.png" img/cardBack.png
+r0
+
+CCopyPNGFile "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphoneos/Tarrot.app/dailyButton.png" img/dailyButton.png
+r0
+
+CCopyPNGFile "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphoneos/Tarrot.app/dailyButtonPressed.png" img/dailyButtonPressed.png
+r0
+
+CCopyPNGFile "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphoneos/Tarrot.app/icon.png" img/icon.png
+r0
+
+CCopyPNGFile "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphoneos/Tarrot.app/mainBackground.png" img/mainBackground.png
+r0
+
+CCopyPNGFile "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphoneos/Tarrot.app/selfButton.png" img/selfButton.png
+r0
+
+CCopyPNGFile "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphoneos/Tarrot.app/selfButtonPressed.png" img/selfButtonPressed.png
+r0
+
+CCopyPNGFile "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphoneos/Tarrot.app/triangleButton.png" img/triangleButton.png
+r0
+
+CCopyPNGFile "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphoneos/Tarrot.app/triangleButtonPressed.png" img/triangleButtonPressed.png
+r0
+
+CCopyPNGFile "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphoneos/Tarrot.app/tubiao5.png" img/tubiao5.png
+r0
+
+CCopyPNGFile "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphoneos/Tarrot.app/tubiao6.png" img/tubiao6.png
+r0
+
+CCopyPNGFile "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphoneos/Tarrot.app/图标1.png" img/图标1.png
+r0
+
+CCpResource build/Release-iphoneos/Tarrot.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+r0
+
+CCreateUniversalBinary "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphoneos/Tarrot.app/Tarrot" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphoneos/Tarrot.app.dSYM" "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphoneos/Tarrot.app/Tarrot"
+r0
+
+CLd "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphoneos/Tarrot.build/Objects-normal/armv6/Tarrot" normal armv6
+r0
+
+CLd "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphoneos/Tarrot.build/Objects-normal/armv7/Tarrot" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphoneos/Tarrot.app/Info.plist" Tarrot-Info.plist
+r0
+
+CProcessPCH /var/folders/fV/fV8ZJGmEHvS2k0A67Nvn+U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tarrot_Prefix-bxwibmsrxqbzzecziteaabaridzc/Tarrot_Prefix.pch.gch Tarrot_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/fV/fV8ZJGmEHvS2k0A67Nvn+U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tarrot_Prefix-gxbgbyfhzhrorabyypvjdpxgwfiy/Tarrot_Prefix.pch.gch Tarrot_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphoneos/Tarrot.app"
+r0
+
+CValidate "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphoneos/Tarrot.app"
+r0
+

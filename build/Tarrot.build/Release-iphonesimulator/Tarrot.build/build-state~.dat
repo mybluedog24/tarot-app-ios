@@ -1,0 +1,636 @@
+TTarrot
+v7
+r0
+t331015711.108961
+cCheck dependencies
+cProcessInfoPlistFile "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app/Info.plist" Tarrot-Info.plist
+cCompileXIB "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/MainWindow.xib"
+cCompileXIB "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/TarrotViewController.xib"
+cCpResource build/Release-iphonesimulator/Tarrot.app/backButton.png img/backButton.png
+cCpResource build/Release-iphonesimulator/Tarrot.app/backButtonPressed.png img/backButtonPressed.png
+cCpResource build/Release-iphonesimulator/Tarrot.app/background.png img/background.png
+cCpResource build/Release-iphonesimulator/Tarrot.app/cardBack.png img/cardBack.png
+cCpResource build/Release-iphonesimulator/Tarrot.app/dailyButton.png img/dailyButton.png
+cCpResource build/Release-iphonesimulator/Tarrot.app/dailyButtonPressed.png img/dailyButtonPressed.png
+cCpResource build/Release-iphonesimulator/Tarrot.app/mainBackground.png img/mainBackground.png
+cCpResource build/Release-iphonesimulator/Tarrot.app/selfButton.png img/selfButton.png
+cCpResource build/Release-iphonesimulator/Tarrot.app/selfButtonPressed.png img/selfButtonPressed.png
+cCpResource build/Release-iphonesimulator/Tarrot.app/triangleButton.png img/triangleButton.png
+cCpResource build/Release-iphonesimulator/Tarrot.app/triangleButtonPressed.png img/triangleButtonPressed.png
+cCpResource build/Release-iphonesimulator/Tarrot.app/icon.png img/icon.png
+cCpResource build/Release-iphonesimulator/Tarrot.app/tubiao4.png img/tubiao4.png
+cCpResource build/Release-iphonesimulator/Tarrot.app/tubiao5.png img/tubiao5.png
+cCpResource build/Release-iphonesimulator/Tarrot.app/tubiao6.png img/tubiao6.png
+cCpResource build/Release-iphonesimulator/Tarrot.app/图标1.png img/图标1.png
+cProcessPCH /var/folders/fV/fV8ZJGmEHvS2k0A67Nvn+U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tarrot_Prefix-bwxvhxzsqumfyihjbvlfanupxpub/Tarrot_Prefix.pch.gch Tarrot_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Tarrot.build/Release-iphonesimulator/Tarrot.build/Objects-normal/i386/main.o "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Tarrot.build/Release-iphonesimulator/Tarrot.build/Objects-normal/i386/TarrotAppDelegate.o "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/TarrotAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Tarrot.build/Release-iphonesimulator/Tarrot.build/Objects-normal/i386/TarrotViewController.o "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/TarrotViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Tarrot.build/Release-iphonesimulator/Tarrot.build/Objects-normal/i386/MainView.o "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/MainView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Tarrot.build/Release-iphonesimulator/Tarrot.build/Objects-normal/i386/ChooseViewDaily.o "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/ChooseViewDaily.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app/Tarrot" normal i386
+cGenerateDSYMFile "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app.dSYM" "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app/Tarrot"
+cTouch "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004D54D2DD00000000000000C4
+t1297404637
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004D54D4200000000000162C50
+t1297404960
+s1453136
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/ChooseViewDaily.h
+c000000004E09DF4D00000000000001DF
+t1309269837
+s479
+i<UIKit/UIKit.h>
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/ChooseViewDaily.m
+c000000004E0AA79800000000000018D4
+t1309321112
+s6356
+i"ChooseViewDaily.h"
+i"MainView.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/MainView.h
+c000000004E098FCB0000000000000238
+t1309249483
+s568
+i<UIKit/UIKit.h>
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/MainView.m
+c000000004E0990090000000000000B36
+t1309249545
+s2870
+i"MainView.h"
+i"ChooseViewDaily.h"
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/TarrotAppDelegate.h
+c000000004E097C4F00000000000001D8
+t1309244495
+s472
+i<UIKit/UIKit.h>
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/TarrotAppDelegate.m
+c000000004E097D350000000000000AED
+t1309244725
+s2797
+i"TarrotAppDelegate.h"
+i"TarrotViewController.h"
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/TarrotViewController.h
+c000000004E098F2800000000000000E8
+t1309249320
+s232
+i<UIKit/UIKit.h>
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/TarrotViewController.m
+c000000004E098F490000000000000657
+t1309249353
+s1623
+i"TarrotViewController.h"
+i"MainView.h"
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/MainWindow.xib
+c000000004E097C4F0000000000004E1D
+t1309244495
+s19997
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/TarrotViewController.xib
+c000000004E0989140000000000003B3A
+t1309247764
+s15162
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Tarrot_Prefix.pch
+c000000004E097C4F00000000000000B5
+t1309244495
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app
+t1309322911
+s782
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app.dSYM
+t1309322911
+s102
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app/Info.plist
+t1309322909
+s622
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app/MainWindow.nib
+t1309322910
+s1679
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app/PkgInfo
+t1309322909
+s8
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app/Tarrot
+t1309322911
+s32284
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app/TarrotViewController.nib
+t1309322910
+s1269
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app/backButton.png
+t1309322909
+s5578
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app/backButtonPressed.png
+t1309322909
+s5702
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app/background.png
+t1309322909
+s189562
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app/cardBack.png
+t1309322909
+s10728
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app/dailyButton.png
+t1309322909
+s10667
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app/dailyButtonPressed.png
+t1309322909
+s11354
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app/icon.png
+t1309322909
+s8855
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app/mainBackground.png
+t1309322909
+s230218
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app/selfButton.png
+t1309322909
+s11058
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app/selfButtonPressed.png
+t1309322909
+s11988
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app/triangleButton.png
+t1309322909
+s10430
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app/triangleButtonPressed.png
+t1309322909
+s11476
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app/tubiao4.png
+t1309322909
+s8370
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app/tubiao5.png
+t1309322909
+s8659
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app/tubiao6.png
+t1309322909
+s8650
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app/图标1.png
+t1309322909
+s8425
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphonesimulator/Tarrot.build/Objects-normal/i386/ChooseViewDaily.o
+t1309322911
+s61500
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphonesimulator/Tarrot.build/Objects-normal/i386/MainView.o
+t1309322910
+s48252
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphonesimulator/Tarrot.build/Objects-normal/i386/Tarrot.LinkFileList
+c000000004E0AAE9D00000000000002E3
+t1309322909
+s739
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphonesimulator/Tarrot.build/Objects-normal/i386/TarrotAppDelegate.o
+t1309322910
+s51620
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphonesimulator/Tarrot.build/Objects-normal/i386/TarrotViewController.o
+t1309322910
+s39616
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphonesimulator/Tarrot.build/Objects-normal/i386/main.o
+t1309322910
+s6332
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/backButton.png
+c000000004E0790CB00000000000015CA
+t1309118667
+s5578
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/backButtonPressed.png
+c000000004E0790590000000000001646
+t1309118553
+s5702
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/background.png
+c000000004E079079000000000002E47A
+t1309118585
+s189562
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/cardBack.png
+c000000004E09668900000000000029E8
+t1309238921
+s10728
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/dailyButton.png
+c000000004E08E35300000000000029AB
+t1309205331
+s10667
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/dailyButtonPressed.png
+c000000004E08E3520000000000002C5A
+t1309205330
+s11354
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/icon.png
+c000000004E0AADE50000000000002297
+t1309322725
+s8855
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/mainBackground.png
+c000000004E079087000000000003834A
+t1309118599
+s230218
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/selfButton.png
+c000000004E08E3520000000000002B32
+t1309205330
+s11058
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/selfButtonPressed.png
+c000000004E08E3530000000000002ED4
+t1309205331
+s11988
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/triangleButton.png
+c000000004E08E35200000000000028BE
+t1309205330
+s10430
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/triangleButtonPressed.png
+c000000004E08E3520000000000002CD4
+t1309205330
+s11476
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/tubiao4.png
+c000000004E0AADE900000000000020B2
+t1309322729
+s8370
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/tubiao5.png
+c000000004E0AADEC00000000000021D3
+t1309322732
+s8659
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/tubiao6.png
+c000000004E0AADE900000000000021CA
+t1309322729
+s8650
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/图标1.png
+c000000004E0AADE300000000000020E9
+t1309322723
+s8425
+
+N/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/main.m
+c000000004E097C4F0000000000000167
+t1309244495
+s359
+i<UIKit/UIKit.h>
+
+N/var/folders/fV/fV8ZJGmEHvS2k0A67Nvn+U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tarrot_Prefix-bwxvhxzsqumfyihjbvlfanupxpub/Tarrot_Prefix.pch.gch
+t1309322910
+s15461808
+
+NTarrot-Info.plist
+c000000004E0AAA550000000000000396
+t1309321813
+s918
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies331015709#331015709#0(0"0(0#1#0"8616488000#0"0#
+
+CCompileC build/Tarrot.build/Release-iphonesimulator/Tarrot.build/Objects-normal/i386/ChooseViewDaily.o "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/ChooseViewDaily.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s331015710.887668
+e331015711.072258
+r1
+xCompileC
+xbuild/Tarrot.build/Release-iphonesimulator/Tarrot.build/Objects-normal/i386/ChooseViewDaily.o
+x/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/ChooseViewDaily.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/ChooseViewDaily.m331015710#331015711#0(0"0(0#0#81"/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/ChooseViewDaily.m8665516064#2192"    cd "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphonesimulator/Tarrot.build/Tarrot-generated-files.hmap" "-I/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphonesimulator/Tarrot.build/Tarrot-own-target-headers.hmap" "-I/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphonesimulator/Tarrot.build/Tarrot-all-target-headers.hmap" -iquote "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphonesimulator/Tarrot.build/Tarrot-project-headers.hmap" "-F/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator" "-I/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/include" "-I/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphonesimulator/Tarrot.build/DerivedSources/i386" "-I/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphonesimulator/Tarrot.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/fV/fV8ZJGmEHvS2k0A67Nvn+U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tarrot_Prefix-bwxvhxzsqumfyihjbvlfanupxpub/Tarrot_Prefix.pch -c "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/ChooseViewDaily.m" -o "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphonesimulator/Tarrot.build/Objects-normal/i386/ChooseViewDaily.o"0#
+
+CCompileC build/Tarrot.build/Release-iphonesimulator/Tarrot.build/Objects-normal/i386/MainView.o "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/MainView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s331015710.886539
+e331015710.995344
+r1
+xCompileC
+xbuild/Tarrot.build/Release-iphonesimulator/Tarrot.build/Objects-normal/i386/MainView.o
+x/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/MainView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/MainView.m331015710#331015710#0(0"0(0#0#74"/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/MainView.m8667186208#2178"    cd "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphonesimulator/Tarrot.build/Tarrot-generated-files.hmap" "-I/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphonesimulator/Tarrot.build/Tarrot-own-target-headers.hmap" "-I/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphonesimulator/Tarrot.build/Tarrot-all-target-headers.hmap" -iquote "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphonesimulator/Tarrot.build/Tarrot-project-headers.hmap" "-F/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator" "-I/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/include" "-I/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphonesimulator/Tarrot.build/DerivedSources/i386" "-I/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphonesimulator/Tarrot.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/fV/fV8ZJGmEHvS2k0A67Nvn+U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tarrot_Prefix-bwxvhxzsqumfyihjbvlfanupxpub/Tarrot_Prefix.pch -c "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/MainView.m" -o "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphonesimulator/Tarrot.build/Objects-normal/i386/MainView.o"0#
+
+CCompileC build/Tarrot.build/Release-iphonesimulator/Tarrot.build/Objects-normal/i386/TarrotAppDelegate.o "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/TarrotAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s331015710.884702
+e331015710.968651
+r1
+xCompileC
+xbuild/Tarrot.build/Release-iphonesimulator/Tarrot.build/Objects-normal/i386/TarrotAppDelegate.o
+x/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/TarrotAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/TarrotAppDelegate.m: In function '-[TarrotAppDelegate application:didFinishLaunchingWithOptions:]':
+o/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/TarrotAppDelegate.m:27: warning: 'setStatusBarHidden:animated:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:271)
+lSLF07#2@91"Compile /Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/TarrotAppDelegate.m331015710#331015710#0(474"/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/TarrotAppDelegate.m: In function '-[TarrotAppDelegate application:didFinishLaunchingWithOptions:]':/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/TarrotAppDelegate.m:27: warning: 'setStatusBarHidden:animated:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:271)1(22@212"'setStatusBarHidden:animated:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:271)331015710#164#310#0(6@83"/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/TarrotAppDelegate.m330937525#27#0#27#0#33"'*' is deprecated (declared at *)0(0#0#83"/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/TarrotAppDelegate.m8669478912#2196"    cd "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphonesimulator/Tarrot.build/Tarrot-generated-files.hmap" "-I/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphonesimulator/Tarrot.build/Tarrot-own-target-headers.hmap" "-I/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphonesimulator/Tarrot.build/Tarrot-all-target-headers.hmap" -iquote "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphonesimulator/Tarrot.build/Tarrot-project-headers.hmap" "-F/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator" "-I/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/include" "-I/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphonesimulator/Tarrot.build/DerivedSources/i386" "-I/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphonesimulator/Tarrot.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/fV/fV8ZJGmEHvS2k0A67Nvn+U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tarrot_Prefix-bwxvhxzsqumfyihjbvlfanupxpub/Tarrot_Prefix.pch -c "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/TarrotAppDelegate.m" -o "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphonesimulator/Tarrot.build/Objects-normal/i386/TarrotAppDelegate.o"0#
+
+CCompileC build/Tarrot.build/Release-iphonesimulator/Tarrot.build/Objects-normal/i386/TarrotViewController.o "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/TarrotViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s331015710.885425
+e331015710.955452
+r1
+xCompileC
+xbuild/Tarrot.build/Release-iphonesimulator/Tarrot.build/Objects-normal/i386/TarrotViewController.o
+x/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/TarrotViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/TarrotViewController.m331015710#331015710#0(0"0(0#0#86"/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/TarrotViewController.m8667596832#2202"    cd "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphonesimulator/Tarrot.build/Tarrot-generated-files.hmap" "-I/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphonesimulator/Tarrot.build/Tarrot-own-target-headers.hmap" "-I/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphonesimulator/Tarrot.build/Tarrot-all-target-headers.hmap" -iquote "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphonesimulator/Tarrot.build/Tarrot-project-headers.hmap" "-F/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator" "-I/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/include" "-I/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphonesimulator/Tarrot.build/DerivedSources/i386" "-I/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphonesimulator/Tarrot.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/fV/fV8ZJGmEHvS2k0A67Nvn+U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tarrot_Prefix-bwxvhxzsqumfyihjbvlfanupxpub/Tarrot_Prefix.pch -c "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/TarrotViewController.m" -o "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphonesimulator/Tarrot.build/Objects-normal/i386/TarrotViewController.o"0#
+
+CCompileC build/Tarrot.build/Release-iphonesimulator/Tarrot.build/Objects-normal/i386/main.o "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s331015710.883894
+e331015710.929316
+r1
+xCompileC
+xbuild/Tarrot.build/Release-iphonesimulator/Tarrot.build/Objects-normal/i386/main.o
+x/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/main.m331015710#331015710#0(0"0(0#0#62"/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/main.m8670606432#2162"    cd "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphonesimulator/Tarrot.build/Tarrot-generated-files.hmap" "-I/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphonesimulator/Tarrot.build/Tarrot-own-target-headers.hmap" "-I/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphonesimulator/Tarrot.build/Tarrot-all-target-headers.hmap" -iquote "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphonesimulator/Tarrot.build/Tarrot-project-headers.hmap" "-F/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator" "-I/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/include" "-I/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphonesimulator/Tarrot.build/DerivedSources/i386" "-I/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphonesimulator/Tarrot.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/fV/fV8ZJGmEHvS2k0A67Nvn+U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tarrot_Prefix-bwxvhxzsqumfyihjbvlfanupxpub/Tarrot_Prefix.pch -c "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/main.m" -o "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphonesimulator/Tarrot.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/MainWindow.xib"
+s331015709.845399
+e331015710.173468
+r1
+xCompileXIB
+x/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib331015709#331015710#0(0"0(0#0#70"/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/MainWindow.xib8661278464#628"    cd "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app/MainWindow.nib" "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/TarrotViewController.xib"
+s331015709.845913
+e331015710.166190
+r1
+xCompileXIB
+x/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/TarrotViewController.xib
+lSLF07#2@35"CompileXIB TarrotViewController.xib331015709#331015710#0(0"0(0#0#80"/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/TarrotViewController.xib8660550624#648"    cd "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app/TarrotViewController.nib" "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/TarrotViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCpResource build/Release-iphonesimulator/Tarrot.app/backButton.png img/backButton.png
+s331015709.846382
+e331015709.852204
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Tarrot.app/backButton.png
+ximg/backButton.png
+lSLF07#2@23"Copy img/backButton.png331015709#331015709#0(0"0(0#0#74"/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/backButton.png8648301504#555"    cd "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/backButton.png" "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app"0#
+
+CCpResource build/Release-iphonesimulator/Tarrot.app/backButtonPressed.png img/backButtonPressed.png
+s331015709.846845
+e331015709.852370
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Tarrot.app/backButtonPressed.png
+ximg/backButtonPressed.png
+lSLF07#2@30"Copy img/backButtonPressed.png331015709#331015709#0(0"0(0#0#81"/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/backButtonPressed.png8644045728#562"    cd "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/backButtonPressed.png" "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app"0#
+
+CCpResource build/Release-iphonesimulator/Tarrot.app/background.png img/background.png
+s331015709.847411
+e331015709.852535
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Tarrot.app/background.png
+ximg/background.png
+lSLF07#2@23"Copy img/background.png331015709#331015709#0(0"0(0#0#74"/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/background.png8643629408#555"    cd "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/background.png" "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app"0#
+
+CCpResource build/Release-iphonesimulator/Tarrot.app/cardBack.png img/cardBack.png
+s331015709.847937
+e331015709.855015
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Tarrot.app/cardBack.png
+ximg/cardBack.png
+lSLF07#2@21"Copy img/cardBack.png331015709#331015709#0(0"0(0#0#72"/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/cardBack.png8641822592#553"    cd "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/cardBack.png" "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app"0#
+
+CCpResource build/Release-iphonesimulator/Tarrot.app/dailyButton.png img/dailyButton.png
+s331015709.848583
+e331015709.855164
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Tarrot.app/dailyButton.png
+ximg/dailyButton.png
+lSLF07#2@24"Copy img/dailyButton.png331015709#331015709#0(0"0(0#0#75"/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/dailyButton.png8638726816#556"    cd "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/dailyButton.png" "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app"0#
+
+CCpResource build/Release-iphonesimulator/Tarrot.app/dailyButtonPressed.png img/dailyButtonPressed.png
+s331015709.849151
+e331015709.855317
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Tarrot.app/dailyButtonPressed.png
+ximg/dailyButtonPressed.png
+lSLF07#2@31"Copy img/dailyButtonPressed.png331015709#331015709#0(0"0(0#0#82"/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/dailyButtonPressed.png8637957984#563"    cd "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/dailyButtonPressed.png" "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app"0#
+
+CCpResource build/Release-iphonesimulator/Tarrot.app/icon.png img/icon.png
+s331015709.855414
+e331015709.861349
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Tarrot.app/icon.png
+ximg/icon.png
+lSLF07#2@17"Copy img/icon.png331015709#331015709#0(0"0(0#0#68"/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/icon.png8630031456#549"    cd "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/icon.png" "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app"0#
+
+CCpResource build/Release-iphonesimulator/Tarrot.app/mainBackground.png img/mainBackground.png
+s331015709.850235
+e331015709.857813
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Tarrot.app/mainBackground.png
+ximg/mainBackground.png
+lSLF07#2@27"Copy img/mainBackground.png331015709#331015709#0(0"0(0#0#78"/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/mainBackground.png8637060192#559"    cd "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/mainBackground.png" "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app"0#
+
+CCpResource build/Release-iphonesimulator/Tarrot.app/selfButton.png img/selfButton.png
+s331015709.851199
+e331015709.857989
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Tarrot.app/selfButton.png
+ximg/selfButton.png
+lSLF07#2@23"Copy img/selfButton.png331015709#331015709#0(0"0(0#0#74"/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/selfButton.png8634969152#555"    cd "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/selfButton.png" "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app"0#
+
+CCpResource build/Release-iphonesimulator/Tarrot.app/selfButtonPressed.png img/selfButtonPressed.png
+s331015709.852628
+e331015709.859714
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Tarrot.app/selfButtonPressed.png
+ximg/selfButtonPressed.png
+lSLF07#2@30"Copy img/selfButtonPressed.png331015709#331015709#0(0"0(0#0#81"/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/selfButtonPressed.png8634645120#562"    cd "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/selfButtonPressed.png" "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app"0#
+
+CCpResource build/Release-iphonesimulator/Tarrot.app/triangleButton.png img/triangleButton.png
+s331015709.853383
+e331015709.859882
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Tarrot.app/triangleButton.png
+ximg/triangleButton.png
+lSLF07#2@27"Copy img/triangleButton.png331015709#331015709#0(0"0(0#0#78"/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/triangleButton.png8634451264#559"    cd "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/triangleButton.png" "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app"0#
+
+CCpResource build/Release-iphonesimulator/Tarrot.app/triangleButtonPressed.png img/triangleButtonPressed.png
+s331015709.854129
+e331015709.860041
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Tarrot.app/triangleButtonPressed.png
+ximg/triangleButtonPressed.png
+lSLF07#2@34"Copy img/triangleButtonPressed.png331015709#331015709#0(0"0(0#0#85"/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/triangleButtonPressed.png8631058080#566"    cd "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/triangleButtonPressed.png" "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app"0#
+
+CCpResource build/Release-iphonesimulator/Tarrot.app/tubiao4.png img/tubiao4.png
+s331015709.856180
+e331015709.861020
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Tarrot.app/tubiao4.png
+ximg/tubiao4.png
+lSLF07#2@20"Copy img/tubiao4.png331015709#331015709#0(0"0(0#0#71"/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/tubiao4.png8628073472#552"    cd "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/tubiao4.png" "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app"0#
+
+CCpResource build/Release-iphonesimulator/Tarrot.app/tubiao5.png img/tubiao5.png
+s331015709.856922
+e331015709.862302
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Tarrot.app/tubiao5.png
+ximg/tubiao5.png
+lSLF07#2@20"Copy img/tubiao5.png331015709#331015709#0(0"0(0#0#71"/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/tubiao5.png8625296288#552"    cd "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/tubiao5.png" "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app"0#
+
+CCpResource build/Release-iphonesimulator/Tarrot.app/tubiao6.png img/tubiao6.png
+s331015709.858084
+e331015709.862738
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Tarrot.app/tubiao6.png
+ximg/tubiao6.png
+lSLF07#2@20"Copy img/tubiao6.png331015709#331015709#0(0"0(0#0#71"/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/tubiao6.png8624742656#552"    cd "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/tubiao6.png" "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app"0#
+
+CCpResource build/Release-iphonesimulator/Tarrot.app/图标1.png img/图标1.png
+s331015709.858828
+e331015709.863409
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Tarrot.app/图标1.png
+ximg/图标1.png
+lSLF07#2@20"Copy img/图标1.png331015709#331015709#0(0"0(0#0#71"/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/图标1.png8624411808#552"    cd "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/img/图标1.png" "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app"0#
+
+CGenerateDSYMFile "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app.dSYM" "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app/Tarrot"
+s331015711.091300
+e331015711.106452
+r1
+xGenerateDSYMFile
+x/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app.dSYM
+x/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app/Tarrot
+lSLF07#2@110"GenerateDSYMFile build/Release-iphonesimulator/Tarrot.app.dSYM build/Release-iphonesimulator/Tarrot.app/Tarrot331015711#331015711#0(0"0(0#0#103"/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app/Tarrot8617240896#441"    cd "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app/Tarrot" -o "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app.dSYM"0#
+
+CLd "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app/Tarrot" normal i386
+s331015711.072338
+e331015711.091216
+r1
+xLd
+x/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app/Tarrot
+xnormal
+xi386
+lSLF07#2@108"Link /Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app/Tarrot331015711#331015711#0(0"0(0#0#0"8629500928#1020"    cd "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk "-L/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator" "-F/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator" -filelist "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphonesimulator/Tarrot.build/Objects-normal/i386/Tarrot.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app/Tarrot"0#
+
+CProcessInfoPlistFile "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app/Info.plist" Tarrot-Info.plist
+s331015709.842680
+e331015709.845337
+r1
+xProcessInfoPlistFile
+x/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app/Info.plist
+xTarrot-Info.plist
+lSLF07#2@25"Process Tarrot-Info.plist331015709#331015709#0(0"0(0#0#73"/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Tarrot-Info.plist8665404384#537"    cd "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Tarrot-Info.plist -genpkginfo "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app/Info.plist"0#
+
+CProcessPCH /var/folders/fV/fV8ZJGmEHvS2k0A67Nvn+U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tarrot_Prefix-bwxvhxzsqumfyihjbvlfanupxpub/Tarrot_Prefix.pch.gch Tarrot_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s331015710.173600
+e331015710.883805
+r1
+xProcessPCH
+x/var/folders/fV/fV8ZJGmEHvS2k0A67Nvn+U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tarrot_Prefix-bwxvhxzsqumfyihjbvlfanupxpub/Tarrot_Prefix.pch.gch
+xTarrot_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Tarrot_Prefix.pch331015710#331015710#0(0"0(0#0#73"/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Tarrot_Prefix.pch8667098624#2034"    cd "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphonesimulator/Tarrot.build/Tarrot-generated-files.hmap" "-I/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphonesimulator/Tarrot.build/Tarrot-own-target-headers.hmap" "-I/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphonesimulator/Tarrot.build/Tarrot-all-target-headers.hmap" -iquote "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphonesimulator/Tarrot.build/Tarrot-project-headers.hmap" "-F/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator" "-I/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/include" "-I/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphonesimulator/Tarrot.build/DerivedSources/i386" "-I/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Tarrot.build/Release-iphonesimulator/Tarrot.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -c "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Tarrot_Prefix.pch" -o /var/folders/fV/fV8ZJGmEHvS2k0A67Nvn+U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tarrot_Prefix-bwxvhxzsqumfyihjbvlfanupxpub/Tarrot_Prefix.pch.gch0#
+
+CTouch "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app"
+s331015711.106528
+e331015711.108933
+r1
+xTouch
+x/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app
+lSLF07#2@102"Touch /Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app331015711#331015711#0(0"0(0#0#0"8622848416#317"    cd "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/build/Release-iphonesimulator/Tarrot.app"0#
+

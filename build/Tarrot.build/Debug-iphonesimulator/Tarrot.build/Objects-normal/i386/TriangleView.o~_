@@ -1,0 +1,2 @@
+/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/TriangleView.m:37: warning: property 'chooseView' requires method '-chooseView' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/mybluedog24/Projects/iphone study/tarrot7/Tarrot/Classes/TriangleView.m:37: warning: property 'chooseView' requires the method 'setChooseView:' to be defined - use @synthesize, @dynamic or provide a method implementation
